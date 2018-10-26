@@ -1,4 +1,4 @@
-console.log("khmsom");
-console.log("khmsom");
-console.log("khmsom");
-console.log("khmsom");
+console.log("แก้ไข3");
+console.log("แก้ไข3");
+console.log("แก้ไข3");
+console.log("แก้ไข3");

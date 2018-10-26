@@ -1,3 +1,3 @@
-console.log("khmsom");
-console.log("khmsom");
-console.log("khmsom");
+console.log("แก้ไข2");
+console.log("แก้ไข2");
+console.log("แก้ไข2");

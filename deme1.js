@@ -1,3 +1,3 @@
-console.log("pornchita1");
-console.log("pornchita1");
-console.log("pornchita1");
+console.log("แก้ไข");
+console.log("แก้ไข");
+console.log("แก้ไข");
