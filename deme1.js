@@ -1,3 +1,3 @@
-console.log("แก้ไข");
-console.log("แก้ไข");
-console.log("แก้ไข");
+console.log("แก้ไข4");
+console.log("แก้ไข4");
+console.log("แก้ไข4");
